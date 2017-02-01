@@ -1,7 +1,7 @@
 {
   "name": "Help Scout",
   "version": "1.0.0",
-  "description": "Help Scout plugin for Franz",
+  "description": "Unofficial Help Scout plugin for Franz",
   "main": "index.js",
   "author": "Daniel J Griffiths <dgriffiths@section214.com>",
   "license": "MIT",

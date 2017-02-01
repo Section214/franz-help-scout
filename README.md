@@ -1,4 +1,4 @@
-# Help Scout plugin for [Franz](http://meetfranz.com/)
+# Unofficial Help Scout plugin for [Franz](http://meetfranz.com/)
 
 [![GitHub release](https://img.shields.io/github/release/Section214/franz-help-scout.svg)](https://github.com/Section214/franz-help-scout/releases/latest)
 [![Github All Releases](https://img.shields.io/github/downloads/Section214/franz-help-scout/total.svg)](https://github.com/Section214/franz-help-scout/releases/latest)
@@ -17,3 +17,7 @@ The direct paths to the plugin directory for the currently supported architectur
  * Linux: `~/.config/Franz/Plugins`
 
 Once installed, you will have to restart Franz in order for it to detect the new plugin.
+
+## Disclaimer
+
+This plugin is in no way endorsed by or affiliated with Help Scout (though Help Scout is awesome).
