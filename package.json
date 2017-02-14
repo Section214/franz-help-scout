@@ -1,12 +1,12 @@
 {
   "name": "Help Scout",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Unofficial Help Scout plugin for Franz",
   "main": "index.js",
   "author": "Daniel J Griffiths <dgriffiths@section214.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://www.helpscout.net/dashboard",
+    "serviceURL": "https://secure.helpscout.net/conversation/319407476/52997/?folderId=373535",
     "serviceName": "Help Scout",
     "message": "",
     "popup": [],
@@ -18,6 +18,6 @@
     "webviewOptions": {
       "disablewebsecurity": ""
     },
-    "openDevTools": false
+    "openDevTools": true
   }
 }

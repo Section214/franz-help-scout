@@ -1,0 +1,18 @@
+.link-copied {
+    text-align: center;
+    padding: 5px 0;
+    background: #6dbf83;
+    color: #fff;
+}
+
+#closeLink {
+    float: right;
+    color: #fff;
+    font-weight: bold;
+    margin: 0 5px 0 -10px;
+}
+
+#closeLink:hover {
+    text-decoration: none;
+    color: #fff;
+}
