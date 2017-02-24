@@ -13,7 +13,7 @@ To install the Help Scout plugin, download the [latest release](https://github.c
 The direct paths to the plugin directory for the currently supported architectures are as follows:
 
  * Mac: `~/Library/Application Support/Franz/Plugins`
- * Windows: `%appdata%/Franz/Plugins`
+ * Windows: `%appdata%/Franz/Roaming/Plugins`
  * Linux: `~/.config/Franz/Plugins`
 
 Once installed, you will have to restart Franz in order for it to detect the new plugin.
